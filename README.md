@@ -10,3 +10,5 @@ I am a MERN Stack Developer .I love Web development and Cyber Security.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
