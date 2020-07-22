@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**RishabhVerma098/RishabhVerma098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :black_heart: React | :blue_heart: Anime
