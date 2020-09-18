@@ -11,7 +11,7 @@ I am a MERN Stack Developer. I love Web development and Cyber Security & many mo
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vermarishabh0987@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1tCkEK0VPOkHFDn7fKGhNRtTAspm6q5PL/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1_7fOjmp_8PRayirv9nEHxXMAAT1zaua_/view?usp=sharing) to get more info.
 
 
 <br/>
