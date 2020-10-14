@@ -55,11 +55,11 @@ I am a MERN Stack Developer. I love Web development and Cyber Security & many mo
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 42 mins  ███████████████▒░░░░░░░░░   61.10 % 
-SCSS         3 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 % 
-JSON         2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Python       2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JavaScript   11 hrs 33 mins  ████████████████░░░░░░░░░   63.71 % 
+SCSS         3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 % 
+JSON         1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Python       1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
 
