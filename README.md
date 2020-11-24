@@ -55,7 +55,8 @@ I am a MERN Stack Developer. I love Web development and Cyber Security & many mo
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         7 mins          ██████████████▓░░░░░░░░░░   58.26 % 
+SCSS         3 mins          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 ```
 <!--END_SECTION:waka-->
 
